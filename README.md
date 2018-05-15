@@ -44,6 +44,7 @@ Syntax:
 	
 Function Procedures
 Syntax:
+
 	Function <procedure_name>(variables with datatypes) as <datatypes>
 		<statements.....>
 	End Function
@@ -53,7 +54,7 @@ Syntax:
 Chapter3
 -assign macro
 
-Cell Hierarchy
+Cell Accessing Hierarchy
 APPLICATION
 	WORKBOOKS (Collection)
 	WORKBOOK (Object)
