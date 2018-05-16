@@ -63,4 +63,12 @@ APPLICATION
 			RANGES (Collection)
 			RANGE (Object)
 
-
+Chapter 7
+Looping types
+	For Next 
+		
+			FOR <loop_counter_variable> = <startingValue> TO <endingValue>
+				<statements...>
+			Next <loop_counter_variable>
+	For each
+	Do loops
