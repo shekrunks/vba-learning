@@ -1,11 +1,11 @@
+VBA:
 http://www.cpearson.com/Excel/Topic.aspx
 https://peltiertech.com/
 https://excelmacromastery.com/vba-articles/
 
-R.HARIHARAN
-+91-9962427607
-reachharry@live.in
-CITIBANK - MAY 2018
+Excel:
+http://contextures.com/
+https://www.youtube.com/user/ExcelIsFun
 
 macro name standards
 -seperate with _
