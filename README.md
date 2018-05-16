@@ -1,5 +1,11 @@
-# vba-learning
-My Learning with VBA in EXCEL
+http://www.cpearson.com/Excel/Topic.aspx
+https://peltiertech.com/
+https://excelmacromastery.com/vba-articles/
+
+R.HARIHARAN
++91-9962427607
+reachharry@live.in
+CITIBANK - MAY 2018
 
 macro name standards
 -seperate with _
@@ -54,14 +60,21 @@ Syntax:
 Chapter3
 -assign macro
 
-Cell Accessing Hierarchy
+Cell Hierarchy
 APPLICATION
 	WORKBOOKS (Collection)
 	WORKBOOK (Object)
 		WORKSHEETS (Collection)
-		WORKSHEET(Object)
+		WORKSHEET(Object)	
 			RANGES (Collection)
 			RANGE (Object)
+
+			
+
+Chapter6
+Vlookup
+WorkSheetFunction. //All Excel Formulas
+
 
 Chapter 7
 Looping types
@@ -70,5 +83,24 @@ Looping types
 			FOR <loop_counter_variable> = <startingValue> TO <endingValue>
 				<statements...>
 			Next <loop_counter_variable>
+			
 	For each
 	Do loops
+	
+	
+Chapter 8
+ Pivot Table - for reporting/summarizing/data vizualisation
+ - Headers are mandatory and unique
+ - Avoid Merged Headers
+ - Numeric cells should not be empty or have text
+ - Clean up data
+	
+	
+	
+Chapter 9 - Outlook Integration
+
+VBE - Tools - References - select Checkbox MicroSoft Outlook Library
+
+	
+
+	
